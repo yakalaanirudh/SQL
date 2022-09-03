@@ -1,0 +1,11 @@
+/*WHAT ARE STATISTICS-INCLUDE CLIENT STATISTICS*/
+
+SELECT * FROM [dbo].[tblEmployee] AS E LEFT JOIN [dbo].[tblDepartment] AS
+ON E.Department=D.Department
+
+
+
+
+
+
+/*WHAT ARE STATISTICS-INCLUDE CLIENT STATISTICS*/
